@@ -15,7 +15,7 @@ terraform {
     organization = "Abhisoman-Terraform-Demos"
 
     workspaces {
-      name = "REPLACE_ME"
+      name = "demo-github-actions"
     }
   }
 }
